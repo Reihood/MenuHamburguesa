@@ -64,7 +64,7 @@ main{
 .menu_lateral::-webkit-scrollbar{
     display: none;
 }
-/*OCULTAR SCROLL PARA EDGE Y FIREFOX*/
+/*OCULTAR SCROLL PARA EDGE Y FIREFOX 8949849*/
 .menu_lateral{
     -ms-overflow-style: none;
     scrollbar-width: none;
